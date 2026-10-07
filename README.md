@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Managed-Streaming-Data-Kafka"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Managed-Streaming-Data-Kafka?style=social" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Managed-Streaming-Data-Kafka"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Managed-Streaming-Data-Kafka?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Managed-Streaming-Data-Kafka/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Managed-Streaming-Data-Kafka?color=blue" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -57,9 +57,9 @@ Below is a comparison of top managed Kafka and event streaming SaaS providers, o
 
 ## 🚀 Open-Source GitHub Projects
 
-Below is a curated list of top open-source event streaming engines, stream processors, CDC tools, and Kafka management dashboards, ordered by **GitHub Star Count (Descending)**:
+Below is a curated list of top open-source event streaming engines, stream processors, CDC tools, and Kafka management dashboards, ordered by **GitHub Stars_Count (Descending)**:
 
-| 📦 Project | ⭐ Stars | 📜 License | 📝 Description & Primary Use Case |
+| 📦 Project | ⭐ GitHub_Stars | 📜 License | 📝 Description & Primary Use Case |
 | :--- | :--- | :--- | :--- |
 | **[Apache Spark](https://github.com/apache/spark)** | [<img src="https://img.shields.io/github/stars/apache/spark?style=social&color=white" alt="Spark Stars"/>](https://github.com/apache/spark/stargazers) | Apache-2.0 | ⚡ Unified batch and stream processing engine with Structured Streaming and exactly-once semantics. |
 | **[Apache Kafka](https://github.com/apache/kafka)** | [<img src="https://img.shields.io/github/stars/apache/kafka?style=social&color=white" alt="Kafka Stars"/>](https://github.com/apache/kafka/stargazers) | Apache-2.0 | 🐘 The de facto standard for distributed event streaming, Kafka Connect, and Kafka Streams API. |
