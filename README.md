@@ -57,7 +57,7 @@ Below is a comparison of top managed Kafka and event streaming SaaS providers, o
 
 ## 🚀 Open-Source GitHub Projects
 
-Below is a curated list of top open-source event streaming engines, stream processors, CDC tools, and Kafka management dashboards, ordered by **GitHub Stars_Count (Descending)**:
+Below is a curated list of top open-source event streaming engines, stream processors, CDC tools, and Kafka management dashboards, ordered by **GitHub_Stars_Count (Descending)**:
 
 | 📦 Project | ⭐ GitHub_Stars | 📜 License | 📝 Description & Primary Use Case |
 | :--- | :--- | :--- | :--- |
